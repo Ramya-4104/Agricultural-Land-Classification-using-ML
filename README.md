@@ -1,4 +1,4 @@
-# 🌾 Farm Land Classification using Machine Learning
+# 🌾 Agricultural Land Classification using Machine Learning
 
 ## 📌 Overview
 
@@ -10,14 +10,7 @@ The solution involves:
 * Handling **missing values and imbalanced data**
 * Training and evaluating models like **Random Forest** and **XGBoost**
 * Improving performance using **threshold tuning**
-
----
-
-## 👥 Team
-
-* **R Kiran Kumar (ES22BTECH11030)**
-* **Challa Srikrishna Reddy (ES22BTECH11006)**
-
+  
 ---
 
 ## 📂 Dataset
@@ -176,9 +169,4 @@ python your_script.py --test-file test.csv --predictions-file submission.csv
 
 This project is for academic and learning purposes.
 
----
 
-## ⭐ Acknowledgements
-
-* Hackathon Team: **ByteBots**
-* Dataset provided as part of ML challenge
