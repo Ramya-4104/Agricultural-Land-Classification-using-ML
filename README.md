@@ -157,6 +157,11 @@ python your_script.py --test-file test.csv --predictions-file submission.csv
 
 ---
 
+# Authors
+
+- R. Kiran Kumar
+- K. Ramya
+
 ## 📈 Future Improvements
 
 * Hyperparameter tuning (Grid Search / Optuna)
